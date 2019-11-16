@@ -11,4 +11,6 @@ A Discord Bot for checking coin price, volume &amp; rank on some. A bot that act
 ### Invite Bot To Your Discord Server
 https://discordapp.com/api/oauth2/authorize?client_id=634551365607227402&permissions=85056&scope=bot
 
+### Or join our server https://discord.gg/StPUCKk
+
 I guarantee nothing malicious is just an api statistic bot 
