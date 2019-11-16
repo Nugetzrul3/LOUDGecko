@@ -1,0 +1,4 @@
+discord
+requests
+mpl_finance
+matplotlib
