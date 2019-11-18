@@ -4,7 +4,6 @@ import requests
 
 import numpy as np
 import matplotlib
-import pylab
 
 from datetime import datetime
 import matplotlib.pyplot as plt
@@ -14,7 +13,7 @@ from mpl_finance import candlestick_ohlc
 
 ### Removing config not needed all code can be streamlined on this sheet XZiimP *
 
-client = discord.Client()
+
 matplotlib.rcParams.update({'font.size': 9})
 MA1 = 12
 MA2 = 26
